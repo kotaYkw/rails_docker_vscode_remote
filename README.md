@@ -26,7 +26,8 @@ vscodeのRemote Contanersを使ってdocker containerに接続をするために
 
 1. vscodeの拡張機能、Remote Contanersをインストールして再起動する。
 
-1. `git clone https://github.com/kotaYkw/rails_docker_vscode_remote.git`  でリポジトリをクローンする。
+1. `git clone https://github.com/kotaYkw/rails_docker_vscode_remote.git`  
+でリポジトリをクローンする。
 
 1. vscode左下の`><`のマークを押して、
 > Remote-Containers: Open Folder in Container...
