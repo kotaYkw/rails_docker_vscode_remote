@@ -30,7 +30,7 @@ vscodeのRemote Contanersを使ってdocker containerに接続をするために
 
 でリポジトリをクローンする。
 
-1. vscode左下の`><`のマークを押して、
+1. vscode左下の`><`のマークを押して、
 > Remote-Containers: Open Folder in Container...  
 
 からクローンしたファイルを開く。
