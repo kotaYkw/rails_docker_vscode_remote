@@ -8,7 +8,6 @@ vscodeのRemote Contanersを使ってdocker containerに接続をするために
 
   * devcontainer.json
 
-  * Dockerfile
 
 * config
 
