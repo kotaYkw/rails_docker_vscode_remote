@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+vscodeのRemote Contanersを使ってdocker containerに接続をするために必要なファイル構成です。
 
-Things you may want to cover:
+環境構築にあたって必要重要なファイルは以下の通りです。
 
-* Ruby version
+* .devcontainer
 
-* System dependencies
+** devcontainer.json
 
-* Configuration
+** Dockerfile
 
-* Database creation
+* config
 
-* Database initialization
+** database.yml
 
-* How to run the test suite
+* docker-compose.yml
 
-* Services (job queues, cache servers, search engines, etc.)
+* entrypoint.sh
 
-* Deployment instructions
+* Gemfile
 
-* ...
+* Gemfile.lock
