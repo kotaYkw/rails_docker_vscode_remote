@@ -2,7 +2,7 @@
 
 vscodeのRemote Contanersを使ってdocker containerに接続をするために必要なファイル構成です。
 
-環境構築にあたって必要重要なファイルは以下の通りです。
+環境構築にあたって重要なファイルは以下の通りです。
 
 * .devcontainer
 
