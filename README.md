@@ -6,13 +6,13 @@ vscodeのRemote Contanersを使ってdocker containerに接続をするために
 
 * .devcontainer
 
-** devcontainer.json
+  * devcontainer.json
 
-** Dockerfile
+  * Dockerfile
 
 * config
 
-** database.yml
+  * database.yml
 
 * docker-compose.yml
 
